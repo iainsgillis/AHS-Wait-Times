@@ -90083,3 +90083,177 @@ report_time,facility_name,wait_time,times_unavailable
 2026-10-30 20:00:00.000000,Sturgeon Community Hospital,304,0
 2026-10-30 20:00:00.000000,University of Alberta Hospital,254,0
 2026-10-30 20:00:00.000000,WestView Health Centre,256,0
+2026-10-30 20:10:00.000000,Airdrie Community Health Centre,102,0
+2026-10-30 20:10:00.000000,Alberta Children's Hospital,215,0
+2026-10-30 20:10:00.000000,Chinook Regional Hospital,146,0
+2026-10-30 20:10:00.000000,Cochrane Community Health Centre,,0
+2026-10-30 20:10:00.000000,Devon General Hospital,299,0
+2026-10-30 20:10:00.000000,Foothills Medical Centre,354,0
+2026-10-30 20:10:00.000000,Fort Sask Community Hospital,224,0
+2026-10-30 20:10:00.000000,Grande Prairie Regional Hospital,30,0
+2026-10-30 20:10:00.000000,Grey Nuns Community Hospital,259,0
+2026-10-30 20:10:00.000000,Innisfail Health Centre,,1
+2026-10-30 20:10:00.000000,Lacombe Hospital and Care Centre,,1
+2026-10-30 20:10:00.000000,Leduc Community Hospital,341,0
+2026-10-30 20:10:00.000000,Medicine Hat Regional Hospital,204,0
+2026-10-30 20:10:00.000000,Misericordia Community Hospital,505,0
+2026-10-30 20:10:00.000000,Northeast Community Health Centre,213,0
+2026-10-30 20:10:00.000000,Northern Lights Regional Health Centre,74,0
+2026-10-30 20:10:00.000000,Okotoks Health and Wellness Centre,,0
+2026-10-30 20:10:00.000000,Peter Lougheed Centre,171,0
+2026-10-30 20:10:00.000000,Red Deer Regional Hospital,204,0
+2026-10-30 20:10:00.000000,Rockyview General Hospital,261,0
+2026-10-30 20:10:00.000000,Royal Alexandra Hospital,260,0
+2026-10-30 20:10:00.000000,Sheldon M. Chumir Centre,85,0
+2026-10-30 20:10:00.000000,South Calgary Health Centre,,0
+2026-10-30 20:10:00.000000,South Health Campus Children[;]South Health Campus,170,
+2026-10-30 20:10:00.000000,Stollery Children's Hospital,256,0
+2026-10-30 20:10:00.000000,Strathcona Community Hospital,448,0
+2026-10-30 20:10:00.000000,Sturgeon Community Hospital,330,0
+2026-10-30 20:10:00.000000,University of Alberta Hospital,247,0
+2026-10-30 20:10:00.000000,WestView Health Centre,252,0
+2026-10-30 20:20:00.000000,Airdrie Community Health Centre,118,0
+2026-10-30 20:20:00.000000,Alberta Children's Hospital,221,0
+2026-10-30 20:20:00.000000,Chinook Regional Hospital,138,0
+2026-10-30 20:20:00.000000,Cochrane Community Health Centre,,0
+2026-10-30 20:20:00.000000,Devon General Hospital,299,0
+2026-10-30 20:20:00.000000,Foothills Medical Centre,363,0
+2026-10-30 20:20:00.000000,Fort Sask Community Hospital,224,0
+2026-10-30 20:20:00.000000,Grande Prairie Regional Hospital,30,0
+2026-10-30 20:20:00.000000,Grey Nuns Community Hospital,275,0
+2026-10-30 20:20:00.000000,Innisfail Health Centre,,1
+2026-10-30 20:20:00.000000,Lacombe Hospital and Care Centre,,1
+2026-10-30 20:20:00.000000,Leduc Community Hospital,341,0
+2026-10-30 20:20:00.000000,Medicine Hat Regional Hospital,166,0
+2026-10-30 20:20:00.000000,Misericordia Community Hospital,488,0
+2026-10-30 20:20:00.000000,Northeast Community Health Centre,188,0
+2026-10-30 20:20:00.000000,Northern Lights Regional Health Centre,74,0
+2026-10-30 20:20:00.000000,Okotoks Health and Wellness Centre,,0
+2026-10-30 20:20:00.000000,Peter Lougheed Centre,160,0
+2026-10-30 20:20:00.000000,Red Deer Regional Hospital,186,0
+2026-10-30 20:20:00.000000,Rockyview General Hospital,258,0
+2026-10-30 20:20:00.000000,Royal Alexandra Hospital,266,0
+2026-10-30 20:20:00.000000,Sheldon M. Chumir Centre,93,0
+2026-10-30 20:20:00.000000,South Calgary Health Centre,,0
+2026-10-30 20:20:00.000000,South Health Campus Children[;]South Health Campus,145,
+2026-10-30 20:20:00.000000,Stollery Children's Hospital,256,0
+2026-10-30 20:20:00.000000,Strathcona Community Hospital,441,0
+2026-10-30 20:20:00.000000,Sturgeon Community Hospital,349,0
+2026-10-30 20:20:00.000000,University of Alberta Hospital,244,0
+2026-10-30 20:20:00.000000,WestView Health Centre,262,0
+2026-10-30 20:30:00.000000,Airdrie Community Health Centre,135,0
+2026-10-30 20:30:00.000000,Alberta Children's Hospital,221,0
+2026-10-30 20:30:00.000000,Chinook Regional Hospital,117,0
+2026-10-30 20:30:00.000000,Cochrane Community Health Centre,,0
+2026-10-30 20:30:00.000000,Devon General Hospital,333,0
+2026-10-30 20:30:00.000000,Foothills Medical Centre,359,0
+2026-10-30 20:30:00.000000,Fort Sask Community Hospital,196,0
+2026-10-30 20:30:00.000000,Grande Prairie Regional Hospital,33,0
+2026-10-30 20:30:00.000000,Grey Nuns Community Hospital,275,0
+2026-10-30 20:30:00.000000,Innisfail Health Centre,,1
+2026-10-30 20:30:00.000000,Lacombe Hospital and Care Centre,,1
+2026-10-30 20:30:00.000000,Leduc Community Hospital,361,0
+2026-10-30 20:30:00.000000,Medicine Hat Regional Hospital,178,0
+2026-10-30 20:30:00.000000,Misericordia Community Hospital,470,0
+2026-10-30 20:30:00.000000,Northeast Community Health Centre,193,0
+2026-10-30 20:30:00.000000,Northern Lights Regional Health Centre,66,0
+2026-10-30 20:30:00.000000,Okotoks Health and Wellness Centre,,0
+2026-10-30 20:30:00.000000,Peter Lougheed Centre,188,0
+2026-10-30 20:30:00.000000,Red Deer Regional Hospital,186,0
+2026-10-30 20:30:00.000000,Rockyview General Hospital,256,0
+2026-10-30 20:30:00.000000,Royal Alexandra Hospital,246,0
+2026-10-30 20:30:00.000000,Sheldon M. Chumir Centre,109,0
+2026-10-30 20:30:00.000000,South Calgary Health Centre,,0
+2026-10-30 20:30:00.000000,South Health Campus Children[;]South Health Campus,145,
+2026-10-30 20:30:00.000000,Stollery Children's Hospital,244,0
+2026-10-30 20:30:00.000000,Strathcona Community Hospital,433,0
+2026-10-30 20:30:00.000000,Sturgeon Community Hospital,372,0
+2026-10-30 20:30:00.000000,University of Alberta Hospital,251,0
+2026-10-30 20:30:00.000000,WestView Health Centre,270,0
+2026-10-30 20:40:00.000000,Airdrie Community Health Centre,151,0
+2026-10-30 20:40:00.000000,Alberta Children's Hospital,227,0
+2026-10-30 20:40:00.000000,Chinook Regional Hospital,148,0
+2026-10-30 20:40:00.000000,Cochrane Community Health Centre,,0
+2026-10-30 20:40:00.000000,Devon General Hospital,333,0
+2026-10-30 20:40:00.000000,Foothills Medical Centre,372,0
+2026-10-30 20:40:00.000000,Fort Sask Community Hospital,168,0
+2026-10-30 20:40:00.000000,Grande Prairie Regional Hospital,33,0
+2026-10-30 20:40:00.000000,Grey Nuns Community Hospital,275,0
+2026-10-30 20:40:00.000000,Innisfail Health Centre,,1
+2026-10-30 20:40:00.000000,Lacombe Hospital and Care Centre,,1
+2026-10-30 20:40:00.000000,Leduc Community Hospital,361,0
+2026-10-30 20:40:00.000000,Medicine Hat Regional Hospital,153,0
+2026-10-30 20:40:00.000000,Misericordia Community Hospital,454,0
+2026-10-30 20:40:00.000000,Northeast Community Health Centre,201,0
+2026-10-30 20:40:00.000000,Northern Lights Regional Health Centre,66,0
+2026-10-30 20:40:00.000000,Okotoks Health and Wellness Centre,,0
+2026-10-30 20:40:00.000000,Peter Lougheed Centre,197,0
+2026-10-30 20:40:00.000000,Red Deer Regional Hospital,202,0
+2026-10-30 20:40:00.000000,Rockyview General Hospital,246,0
+2026-10-30 20:40:00.000000,Royal Alexandra Hospital,260,0
+2026-10-30 20:40:00.000000,Sheldon M. Chumir Centre,129,0
+2026-10-30 20:40:00.000000,South Calgary Health Centre,,0
+2026-10-30 20:40:00.000000,South Health Campus Children[;]South Health Campus,121,
+2026-10-30 20:40:00.000000,Stollery Children's Hospital,233,0
+2026-10-30 20:40:00.000000,Strathcona Community Hospital,441,0
+2026-10-30 20:40:00.000000,Sturgeon Community Hospital,369,0
+2026-10-30 20:40:00.000000,University of Alberta Hospital,249,0
+2026-10-30 20:40:00.000000,WestView Health Centre,262,0
+2026-10-30 20:50:00.000000,Airdrie Community Health Centre,131,0
+2026-10-30 20:50:00.000000,Alberta Children's Hospital,227,0
+2026-10-30 20:50:00.000000,Chinook Regional Hospital,148,0
+2026-10-30 20:50:00.000000,Cochrane Community Health Centre,,0
+2026-10-30 20:50:00.000000,Devon General Hospital,333,0
+2026-10-30 20:50:00.000000,Foothills Medical Centre,369,0
+2026-10-30 20:50:00.000000,Fort Sask Community Hospital,196,0
+2026-10-30 20:50:00.000000,Grande Prairie Regional Hospital,30,0
+2026-10-30 20:50:00.000000,Grey Nuns Community Hospital,267,0
+2026-10-30 20:50:00.000000,Innisfail Health Centre,,1
+2026-10-30 20:50:00.000000,Lacombe Hospital and Care Centre,,1
+2026-10-30 20:50:00.000000,Leduc Community Hospital,380,0
+2026-10-30 20:50:00.000000,Medicine Hat Regional Hospital,140,0
+2026-10-30 20:50:00.000000,Misericordia Community Hospital,447,0
+2026-10-30 20:50:00.000000,Northeast Community Health Centre,250,0
+2026-10-30 20:50:00.000000,Northern Lights Regional Health Centre,74,0
+2026-10-30 20:50:00.000000,Okotoks Health and Wellness Centre,,0
+2026-10-30 20:50:00.000000,Peter Lougheed Centre,199,0
+2026-10-30 20:50:00.000000,Red Deer Regional Hospital,207,0
+2026-10-30 20:50:00.000000,Rockyview General Hospital,251,0
+2026-10-30 20:50:00.000000,Royal Alexandra Hospital,260,0
+2026-10-30 20:50:00.000000,Sheldon M. Chumir Centre,133,0
+2026-10-30 20:50:00.000000,South Calgary Health Centre,,0
+2026-10-30 20:50:00.000000,South Health Campus Children[;]South Health Campus,121,
+2026-10-30 20:50:00.000000,Stollery Children's Hospital,256,0
+2026-10-30 20:50:00.000000,Strathcona Community Hospital,433,0
+2026-10-30 20:50:00.000000,Sturgeon Community Hospital,409,0
+2026-10-30 20:50:00.000000,University of Alberta Hospital,242,0
+2026-10-30 20:50:00.000000,WestView Health Centre,270,0
+2026-10-30 21:00:00.000000,Airdrie Community Health Centre,148,0
+2026-10-30 21:00:00.000000,Alberta Children's Hospital,245,0
+2026-10-30 21:00:00.000000,Chinook Regional Hospital,125,0
+2026-10-30 21:00:00.000000,Cochrane Community Health Centre,,0
+2026-10-30 21:00:00.000000,Devon General Hospital,333,0
+2026-10-30 21:00:00.000000,Foothills Medical Centre,392,0
+2026-10-30 21:00:00.000000,Fort Sask Community Hospital,196,0
+2026-10-30 21:00:00.000000,Grande Prairie Regional Hospital,39,0
+2026-10-30 21:00:00.000000,Grey Nuns Community Hospital,267,0
+2026-10-30 21:00:00.000000,Innisfail Health Centre,,1
+2026-10-30 21:00:00.000000,Lacombe Hospital and Care Centre,,1
+2026-10-30 21:00:00.000000,Leduc Community Hospital,361,0
+2026-10-30 21:00:00.000000,Medicine Hat Regional Hospital,153,0
+2026-10-30 21:00:00.000000,Misericordia Community Hospital,406,0
+2026-10-30 21:00:00.000000,Northeast Community Health Centre,222,0
+2026-10-30 21:00:00.000000,Northern Lights Regional Health Centre,97,0
+2026-10-30 21:00:00.000000,Okotoks Health and Wellness Centre,,0
+2026-10-30 21:00:00.000000,Peter Lougheed Centre,218,0
+2026-10-30 21:00:00.000000,Red Deer Regional Hospital,186,0
+2026-10-30 21:00:00.000000,Rockyview General Hospital,236,0
+2026-10-30 21:00:00.000000,Royal Alexandra Hospital,260,0
+2026-10-30 21:00:00.000000,Sheldon M. Chumir Centre,149,0
+2026-10-30 21:00:00.000000,South Calgary Health Centre,,0
+2026-10-30 21:00:00.000000,South Health Campus Children[;]South Health Campus,97,
+2026-10-30 21:00:00.000000,Stollery Children's Hospital,256,0
+2026-10-30 21:00:00.000000,Strathcona Community Hospital,411,0
+2026-10-30 21:00:00.000000,Sturgeon Community Hospital,397,0
+2026-10-30 21:00:00.000000,University of Alberta Hospital,251,0
+2026-10-30 21:00:00.000000,WestView Health Centre,278,0
